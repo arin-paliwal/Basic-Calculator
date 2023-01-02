@@ -1,0 +1,57 @@
+body,html{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    color: rgb(13, 93, 15);
+    background-color: rgb(202, 217, 212);
+    font-family: 'Courier New', Courier, monospace;
+    animation:fadein 1.5s;
+}
+@keyframes fadein {
+}
+h1{
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+input{
+    background-color: rgb(255, 255, 255);
+    color: rgb(13, 93, 15);
+    /* outline:none; */
+    text-align: center;
+    border:1px;
+    border-radius: 8px;
+    font-size: 2rem;
+    width: 78vw;
+    padding: 0.5rem;
+}
+.container{
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    /* top: 50%;
+    bottom: 50%;
+    transform: translate(-50%,-50%); */
+}
+.calculator{
+    padding: 0.25rem;
+    display: inline-block;
+}
+table{
+    margin: auto;
+}
+button{
+    border: none;
+    background-color: rgb(255, 255, 255);
+    width: 19.6vw;
+    height: 6vw;
+    padding: .5rem 0;
+    font-size: 2rem;
+    border-radius: 8px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 510;
+}
+button:hover{
+    background-color: rgb(202, 217, 212);
+}
