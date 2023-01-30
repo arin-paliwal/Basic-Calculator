@@ -11,5 +11,5 @@
 #### 4. Clear screen feature to clear the display screen anytime you want.
 #### 5. Keyboard will also work along with mouse for entering your inputs.
 
-![Screenshot - Calculator] (https://drive.google.com/uc?id=1CTFTbCe8LHa-YIzIrvEoFON_0Hanwpep)
+![Screenshot - Calculator](https://drive.google.com/uc?id=1CTFTbCe8LHa-YIzIrvEoFON_0Hanwpep)
 - Made by Arin Paliwal
