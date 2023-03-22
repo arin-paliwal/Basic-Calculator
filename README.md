@@ -14,4 +14,4 @@
 ![Screenshot - Calculator](https://drive.google.com/uc?id=1CTFTbCe8LHa-YIzIrvEoFON_0Hanwpep)
 - Made by Arin Paliwal
 #### You can try it here 
-- https://arin-paliwal.github.io/Basic_Calculator/
+- https://arin-paliwal.github.io/Basic-Calculator/
